@@ -1,16 +1,15 @@
 Hi 👋 My name is Emmanuel Donaté
 ================================
 
-Web Developer
--------------
+Web Developer || IT Support Specialist
+--------------------------------------
 
 Dependable and goal-oriented Web Developer/ IT Specialist with significant experience analyzing operating systems and troubleshooting IT issues while providing excellent customer service and end user support. Demonstrated ability to build full stack applications (JavaScript, React, Node, Python, MySQL) as well as knowledgeable in Git, Linux and IT fundamentals in networking and security; with a concentration in information security and incident response methodologies. Effective, self- driven professional with years of inventory management, software development, and Information technology experience in Agile demanding environments. Currently seeking opportunities to expand skill set while facilitating company growth.
 
-* 🌍  I'm based in San Diego
-* ✉️  You can contact me at [e.o.donate@gmail.com](mailto:e.o.donate@gmail.com)
+* 🌍  I'm based in San Diego
+* ✉️  You can contact me at [e.o.donate@gmail.com](mailto:e.o.donate@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -29,11 +28,9 @@ Dependable and goal-oriented Web Developer/ IT Specialist with significant exper
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/emmanueldonate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
