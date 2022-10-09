@@ -1,4 +1,4 @@
-Hi 👋 My name is Emmanuel Donaté
+Emmanuel Donaté
 ================================
 
 Web Developer || IT Support Specialist
