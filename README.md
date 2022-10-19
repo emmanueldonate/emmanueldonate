@@ -4,7 +4,7 @@ Emmanuel Donaté
 Web Developer || IT Support Specialist 
 --------------------------------------
 
-Dependable and goal-oriented Web Developer/ IT Specialist with significant experience analyzing operating systems and troubleshooting IT issues while providing excellent customer service and end user support. Demonstrated ability to build full stack applications (JavaScript, React, Node, Python, MySQL) as well as knowledgeable in Git, Linux and IT fundamentals in networking and security; with a concentration in information security and incident response methodologies. Effective, self- driven professional with years of inventory management, software development, and Information technology experience in Agile demanding environments. 
+Dependable and goal-oriented Web Developer/ IT Support Specialist with significant experience analyzing operating systems and troubleshooting IT issues while providing excellent customer service and end user support. Demonstrated ability to build full stack applications (JavaScript, React, Node, Python, MySQL) as well as knowledgeable in Git, Linux and IT fundamentals in networking and security; with a concentration in information security and incident response methodologies. Effective, self- driven professional with years of inventory management, software development, and Information technology experience in Agile demanding environments. 
 
 * 🌍  I'm based in San Diego.
 * ✉️  You can contact me at [e.o.donate@outlook.com](mailto:e.o.donate@outlook.com).
