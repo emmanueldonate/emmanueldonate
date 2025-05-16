@@ -1,7 +1,7 @@
 Emmanuel Donaté
 ================================
 
-Web Developer || IT Support Specialist 
+Web Developer || IT Support Engineer 
 --------------------------------------
 
 Dependable and goal-oriented Web Developer/IT Support Engineer with significant experience analyzing operating systems, applications, databases and troubleshooting IT issues while providing excellent customer service and end user support. Demonstrated ability to build full stack applications (JavaScript, React, Node, MongoDB, Python, SQL) as well as knowledgeable in SDLCs, Git, AWS, Linux and IT fundamentals in networking and security; with a concentration in information security and incident response methodologies. Effective, self- driven professional with years of HIPPA compliancy, asset management, software development, and Information technology experience in Agile demanding environments. . 
